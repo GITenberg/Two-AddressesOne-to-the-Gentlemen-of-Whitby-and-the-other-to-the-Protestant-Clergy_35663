@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37813
     wikipedia: http://en.wikipedia.org/wiki/Rigby,_Nicholas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35663#Two-AddressesOne-to-the-Gentlemen-of-Whitby-and-the-other-to-the-Protestant-Clergy
 gutenberg_issued: '2011-03-23'
 gutenberg_type: Text
 identifiers:
