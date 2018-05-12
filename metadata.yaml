@@ -1,0 +1,31 @@
+_repo: Two-AddressesOne-to-the-Gentlemen-of-Whitby-and-the-other-to-the-Protestant-Clergy_35663
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rigby, N. (Nicholas)
+    alias: Rigby, Nicholas
+    birthdate: 1800
+    deathdate: 1886
+    gutenberg_agent_id: '37813'
+    url: http://www.gutenberg.org/2009/agents/37813
+    wikipedia: http://en.wikipedia.org/wiki/Rigby,_Nicholas
+description: ''
+gutenberg_issued: '2011-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Church history'
+- !lcsh 'Catholic Church -- England -- History -- 19th century'
+- !lcc 'BX'
+title: "Two Addresses\r\nOne, to the Gentlemen of Whitby, Who Signed the Requisition,\
+  \ Calling a Meeting to Address the Queen, on the Late (So Called) Aggression of\
+  \ the Pope: and the Other, to the Protestant Clergy"
+url: http://www.gutenberg.org/ebooks/35663
